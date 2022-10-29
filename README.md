@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](htpp:/kodluyoruz.com) Front-End Eğitiminde oluşturduğumu
 ![Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 ## **Installation­­**
-Öncelikle projeyi clonelayın. [Repomun linki](https://github.com/F-Can-K/kodluyoruzilkrepo.git)
+Öncelikle projeyi clonelayın. [Repomun linki](https://github.com/F-Can-K/kodluyoruzilkrepo.git) ve [patika.dev](www.patika.dev)
 
 ```
 git clone https://github.com/F-Can-K/kodluyoruzilkrepo.git
